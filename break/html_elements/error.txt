@@ -1,0 +1,205 @@
+Time: 2024-03-29 - 12:05:09
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:22:12
+Site Name: http://www.feimaoyun.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:22:42
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:29:09
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:41:50
+Site Name: http://www.feimaoyun.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:42:35
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-29 - 12:42:57
+Site Name: http://www.balisakti.com
+HTML Object: 
+Function Name: run
+Error: Message: unknown error: unhandled inspector error: {"code":-32000,"message":"No node with given id found"}
+Time: 2024-03-30 - 13:51:25
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-30 - 13:51:35
+Site Name: http://www.corporatefort.africa
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-30 - 13:51:40
+Site Name: http://www.balisakti.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 04:21:26
+Site Name: http://www.feimaoyun.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 04:22:40
+Site Name: http://www.balisakti.com
+HTML Object: 
+Function Name: run
+Error: Message: stale element reference: stale element not found
+Time: 2024-03-31 - 05:57:25
+Site Name: http://www.ocregister.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 05:59:27
+Site Name: http://www.corporatefort.africa
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 06:31:24
+Site Name: http://www.livinghealthyweekly.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 06:35:37
+Site Name: http://www.365hosts-status.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 06:36:23
+Site Name: http://www.vsalad.ru
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 06:36:27
+Site Name: http://www.menzgear.co.kr
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:30:49
+Site Name: http://www.aei.org
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:31:01
+Site Name: http://www.ilmetropolitano.it
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:32:41
+Site Name: http://www.bookstack.cn
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:33:06
+Site Name: http://www.kxan.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:33:47
+Site Name: http://www.fang.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:34:02
+Site Name: http://www.yuketang.cn
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:39:03
+Site Name: http://www.dict.cc
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:39:50
+Site Name: http://www.visageorgia.ge
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:40:40
+Site Name: http://www.autograf.su
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:41:55
+Site Name: http://www.royalzgcstore.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 11:57:55
+Site Name: http://www.patheos.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 12:56:44
+Site Name: http://www.fontspace.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 12:59:41
+Site Name: http://www.scholarsdelight.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:00:32
+Site Name: http://www.ankaraperdecisi.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:00:50
+Site Name: http://www.southcn.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:01:00
+Site Name: http://www.newduba.cn
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:03:42
+Site Name: http://www.buzzfeed.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:04:00
+Site Name: http://www.notebookcheck.net
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:05:12
+Site Name: http://www.aguidehub.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:09:58
+Site Name: http://www.cdylsyj.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:23:02
+Site Name: http://www.ronlay-medical.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:26:03
+Site Name: http://www.dailypainters.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
+Time: 2024-03-31 - 13:27:48
+Site Name: http://www.pantip.com
+HTML Object: 
+Function Name: run
+Error: name 'error' is not defined
